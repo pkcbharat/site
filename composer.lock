@@ -21,7 +21,11 @@
                 "shasum": ""
             },
             "require": {
+<<<<<<< HEAD
                 "php": ">=8.1.1"
+=======
+                "php": ">=5.3.2"
+>>>>>>> a5cacce127aebfea73708118cc288bd93159db17
             },
             "require-dev": {
                 "phpunit/phpunit": "@stable"
