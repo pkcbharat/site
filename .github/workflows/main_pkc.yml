@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'pkc'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_9266EC2DC0304EF88AFA8F334BB1ECDB }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_929421F9323E4D82B3C55FD2F174ECE9 }}
           package: .
